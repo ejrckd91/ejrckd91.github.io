@@ -2,4 +2,4 @@
 ________________
 
 
-![고양이](/image/cat.jpeg)
+![고양이](/image/cat.jpg)
