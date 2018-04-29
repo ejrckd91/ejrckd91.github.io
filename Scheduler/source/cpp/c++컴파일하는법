@@ -1,0 +1,4 @@
+컴파일 하는법
+
+g++ inputfile.cpp -o outputfile
+ccache g++ inputfile.cpp -o outputfile

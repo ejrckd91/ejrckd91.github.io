@@ -1,0 +1,5 @@
+on python3.6
+트킨터가 기본으로 안깔려있음
+
+
+sudo yum install python36u-tkinter
